@@ -18,7 +18,7 @@ def args_parser():
     parser.add_argument('--split', type=str, default='user', help="train-test split type, user or sample")
 
     # model arguments
-    parser.add_argument('--model', type=str, default='mlp', help='model name')
+    parser.add_argument('--model', type=str, default='cnn', help='model name')
     parser.add_argument('--kernel_num', type=int, default=9, help='number of each kind of kernel')
     parser.add_argument('--kernel_sizes', type=str, default='3,4,5',
                         help='comma-separated kernel size to use for convolution')
