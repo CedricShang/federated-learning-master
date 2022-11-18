@@ -1,3 +1,4 @@
+# THIS IS NOT MY CODE I JUST CLONE IT HERE to modify for research purpose
 # Federated Learning [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4321561.svg)](https://doi.org/10.5281/zenodo.4321561)
 
 This is partly the reproduction of the paper of [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)   
